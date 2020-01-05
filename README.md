@@ -13,3 +13,4 @@ Results with TFDS input pipeline (not ImageAugmentation),growing learning rate  
 # Pretrained model with Xception
 
 Results with ImageAugmentation,Earlystop, SGC optimizer and pretrained model (XCeption)
+![Screenshot](pretrained.png)
