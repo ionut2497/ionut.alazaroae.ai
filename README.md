@@ -18,5 +18,4 @@ Google colab link : https://colab.research.google.com/drive/1BygqiMx4wWUztABjA-M
 Results with ImageAugmentation,Earlystop, SGC optimizer and pretrained model (XCeption)
 ![Screenshot](pretrained.png)
 
-
 Conclusion : much slower because of old style input pipeline and Google Drive mounting but less training needed because of Xception
